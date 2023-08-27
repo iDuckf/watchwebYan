@@ -1,0 +1,159 @@
+html, * {
+    padding: 0px;
+    margin: 0px;
+}
+
+.bgLogo {
+    background-color: rgb(99, 99, 99);
+}
+
+.we {
+    color: black;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.watch {
+    color: maroon;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.desc {
+    color:  white;
+    font-size: 25px;
+}
+
+.bgBtn {
+    background-color: black;
+    border-bottom: 7px solid maroon;
+}
+
+.aBtn {
+    text-decoration: none;
+}
+
+.btnActive {
+    font-size: 17px;
+    width: 147px;
+    height: 60px;
+    font-weight: 600;
+    color: white;
+    background-color: maroon;
+    border: none;
+    margin-right: 5px;
+}
+
+.btnNonActive {
+    font-size: 17px;
+    width: 147px;
+    height: 60px;
+    font-weight: 600;
+    color: white;
+    background-color: black;
+    border: none;
+    margin-right: 5px;
+}
+
+.btnNonActive:hover {
+    font-size: 17px;
+    width: 147px;
+    height: 60px;
+    font-weight: 600;
+    color: white;
+    background-color: maroon;
+    border: none;
+    margin-right: 5px;
+}
+
+.bgContent {
+    background-image: linear-gradient(to bottom right, white, black);
+}
+
+.content {
+    background-image: linear-gradient(to bottom right, #970D1A, #4E204D);
+}
+
+.onGo {
+    background-color: rgb(169, 0, 0);
+    border-bottom: 5px solid black;
+    text-align: center;
+}
+
+.onGo h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+h4 {
+    padding-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+img {
+    border: 5px solid black;
+}
+
+.btnWatch {
+    background-color: red;
+    width: 120px;
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+.btnWatch:hover {
+    background-color: red;
+    width: 120px;
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 3px solid orange;
+    color: white;
+    font-size: 20px;
+    transform: scale(1.05);
+}
+
+.bgFoot {
+    background-color: black;
+    border-top: 7px solid maroon;
+}
+
+.bgFoot h5 {
+    color: white;
+    border-bottom: 5px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bgFoot p {
+    color: white;
+}
+
+.bgCopy {
+    background-color: rgb(99, 99, 99);;
+}
+
+.bgCopy p {
+    color: white;
+}
+
+.sosmed {
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.sosmed:hover {
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: underline;
+}
